@@ -34,6 +34,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - :seedling: Exploring Technical Content Writing and Vlogging.
 - :zap: In my free time, I solve problems and read tech articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-red?style=flat&logo=Gmail&logoColor=white)](princewillingoo@gmail.com)
+- :mailbox:How to reach me: princewillingoo@gmail.com
 
 ---
 
