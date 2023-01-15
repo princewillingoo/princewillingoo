@@ -33,7 +33,6 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - :telescope: I’m working as a Machine Learning Intern, contributing to backend systems and writing automation pipelines to enable efficient software delivery and monitoring.
 - :seedling: Exploring Technical Content Writing and Vlogging.
 - :zap: In my free time, I solve problems and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-red?style=flat&logo=Gmail&logoColor=white)](princewillingoo@gmail.com)
 - :mailbox:How to reach me: princewillingoo@gmail.com
 
 ---
