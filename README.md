@@ -30,7 +30,7 @@
 ### :man_technologist: About Me :
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Currently Learning DevOps,With So Much Love For Machine Learning And Data Systems
 
-- :telescope: I’m working as a Machine Learning Intern, contributing to backend systems and writing automation pipelines to enable efficient software delivery and monitoring.
+- :telescope: I’m currently working as a Machine Learning Intern, contributing to backend systems and writing automation pipelines to enable efficient software delivery and monitoring.
 - :seedling: Exploring Technical Content Writing and Vlogging.
 - :zap: In my free time, I solve problems and read tech articles.
 - :mailbox:How to reach me: princewillingoo@gmail.com
