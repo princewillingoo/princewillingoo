@@ -68,11 +68,14 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ---
 
-### :fire: My Stats :
+### :fire: Willingoo's Stats :fire:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princewilling&hide=jupyter%20notebook,html,css,scss,dockerfile,makefile,mako,shell,gherkin&theme=vision-friendly-dark)](https://github.com/princewilling/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=princewilling&theme=dark&border_radius=5.4)](https://git.io/streak-stats)
+<table style="width:100%">
+  <tr>
+    <td><p><a href="https://github.com/princewilling/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princewilling&amp;hide=jupyter%20notebook,html,css,scss,dockerfile,makefile,mako,shell,gherkin&amp;theme=vision-friendly-dark" alt="Top Langs"></a></p></td>
+    <td><p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=princewilling&amp;theme=dark&amp;border_radius=5.4" alt="GitHub Streak"></a></p></td>
+  </tr>
+</table>
 
 ---
 
