@@ -70,9 +70,9 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=princewilling&theme=dark&border_radius=5.4)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princewilling&hide=jupyter%20notebook,html,css,scss,dockerfile,makefile,mako,shell,gherkin&theme=vision-friendly-dark)](https://github.com/princewilling/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princewilling&layout=compact&theme=vision-friendly-dark)](https://github.com/princewilling/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=princewilling&theme=dark&border_radius=5.4)](https://git.io/streak-stats)
 
 ---
 
