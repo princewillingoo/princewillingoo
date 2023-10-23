@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/princewillingoo">
@@ -17,17 +17,11 @@
   <h1>
     Hey,
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-    Welcome!!!. Take your time to explore.
+    Welcome!!! Take your time to explore.
   </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
-</div>
-
----
-
-### :man_technologist: About Me :
+## What You Need to Know
 👨‍💻 Backend Developer 👨‍💻
 
 With a solid foundation in Python, JavaScript, and Node.js, I focus on architecting and delivering efficient solutions to software problems. Whether it's designing REST or GraphQL APIs, optimizing database performance, or ensuring data security, I'm dedicated to delivering seamless user experiences through rock-solid backend infrastructure.
@@ -47,7 +41,7 @@ I am a versatile developer passionate about building robust backend systems, str
 Let's connect and collaborate on exciting projects that push the boundaries of what technology can achieve!
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools
 <div>
     <table style="width:100%">
         <tr>
@@ -83,7 +77,7 @@ Let's connect and collaborate on exciting projects that push the boundaries of w
 
 ---
 
-### :fire: Willingoo's Stats :fire:
+## :fire: Willingoo's Stats :fire:
 
 <table style="width:100%">
   <tr>
@@ -94,4 +88,4 @@ Let's connect and collaborate on exciting projects that push the boundaries of w
 
 ---
 
-### :writing_hand: Blog Posts :
+## :writing_hand: Blog Posts
