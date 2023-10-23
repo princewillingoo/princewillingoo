@@ -28,16 +28,16 @@
 ---
 
 ### :man_technologist: About Me :
-👨‍💻 Backend Developer
+👨‍💻 Backend Developer<br>
 With a solid foundation in Python, JavaScript, and Node.js, I focus on architecting and delivering efficient solutions to software problems. Whether it's designing REST or GraphQL APIs, optimizing database performance, or ensuring data security, I'm dedicated to delivering seamless user experiences through rock-solid backend infrastructure.
 
-🔧 DevOps
+🔧 DevOps<br>
 Apart from working on the server side as a backend dev, my DevOps skills enable me to bridge the gap between development and operations while accelerating software delivery. My expertise lies in tools like Docker, Kubernetes, Terraform, and AWS, enabling me to build and maintain resilient, cloud-native environments.
 
-✍️ Technical Writer
+✍️ Technical Writer<br>
 I'm not just about writing code; I'm also about documenting it effectively. As a technical writer, I transform technical concepts into user-friendly documentation and guides, ensuring that developers and end-users alike can understand and utilize software to its fullest potential.
 
-Summary 🌟
+Summary 🌟<br>
 I am a versatile developer passionate about building robust backend systems, streamlining DevOps pipelines, and translating intricate technical details into user-friendly documentation and guides. 
 
 Let's connect and collaborate on exciting projects that push the boundaries of what technology can achieve!
