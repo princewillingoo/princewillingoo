@@ -89,3 +89,10 @@ Let's connect and collaborate on exciting projects that push the boundaries of w
 ---
 
 ## :writing_hand: Blog Posts
+1. <a href="https://semaphoreci.com/blog/custom-middleware-fastapi"><strong>Building Custom Middleware in FastAPI: Extending and Enhancing API Functionality</strong></a><br>
+2. <a href="https://earthly.dev/blog/linux-network-commands/"><strong>Mastering Linux Networking Commands: A Comprehensive Guide</strong></a><br>
+3. <a href="https://www.makeuseof.com/create-distribute-use-packages-in-python/"><strong>A Beginner’s Guide to Creating and Using Packages in Python</strong></a><br>
+4. <a href="https://willingly.hashnode.dev/integrating-paystack-payment-gateway-with-django"><strong>Integrating Paystack Payment Gateway Into Your Django Project I</strong></a><br>
+5. <a href="https://willingly.hashnode.dev/integrating-paystack-payment-gateway-with-django-ii"><strong>Integrating Paystack Payment Gateway Into Your Django Project II</strong></a><br>
+
+
