@@ -81,8 +81,8 @@ Let's connect and collaborate on exciting projects that push the boundaries of w
 
 <table style="width:100%">
   <tr>
-    <td><p><a href="https://github.com/princewilling/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princewilling&amp;hide=jupyter%20notebook,html,css,scss,dockerfile,makefile,mako,shell,gherkin&amp;theme=vision-friendly-dark" alt="Top Langs"></a></p></td>
-    <td><p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=princewilling&amp;theme=dark&amp;border_radius=5.4" alt="GitHub Streak"></a></p></td>
+    <td><p><a href="https://github.com/princewillingoo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princewillingoo&amp;hide=jupyter%20notebook,html,css,scss,dockerfile,makefile,mako,shell,gherkin&amp;theme=vision-friendly-dark" alt="Top Langs"></a></p></td>
+    <td><p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=princewillingoo&amp;theme=dark&amp;border_radius=5.4" alt="GitHub Streak"></a></p></td>
   </tr>
 </table>
 
