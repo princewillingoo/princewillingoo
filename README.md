@@ -42,8 +42,8 @@ I'm not just about writing code; I'm also about documenting it effectively. As a
 
 ### AI & Agents
 | LangChain & LangGraph | Transformers |
-|----------------------|--------------|
-| <img src="./media/langchain-and-Langraph.png" width="50" height="50" align="center"/> | <img src="./media/transformers-hugging-face.png" width="50" height="50" align="center"/> |
+|:----------------------:|:--------------:|
+| <img src="./media/langchain-and-Langraph.png" width="50" height="50"/> | <img src="./media/transformers-hugging-face.png" width="50" height="50"/> |
 
 | OpenCV | Pandas | Numpy | n8n |
 |--------|--------|-------|-----|
