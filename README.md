@@ -7,7 +7,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=princewilling&style=flat-square&color=blue)
   
-  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> Build, Experiment, Solve and Ship.
+  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/> Build, Experiment, Solve and Ship.
 </div>
 
 I architect and build intelligent systems that power modern, data-driven applications. My skill set lies at the intersection of efficient software engineering and AI. I leverage Python, Node.js, and advanced AI frameworks to solve complex challenges in domains like HealthTech, EdTech, and Marketing Analytics.
@@ -23,34 +23,31 @@ I'm not just about writing code; I'm also about documenting it effectively. As a
 ### Programming Languages & Frameworks
 | Python | FastAPI | Django | Flask |
 |--------|---------|--------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50" height="50"/> |
 
 | JavaScript | TypeScript | NodeJS | ExpressJS | NestJS |
 |------------|------------|---------|------------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="80" height="80"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="80" height="80"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="80" height="80"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="80" height="80"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="50" height="50"/> |
 
 ### Databases
 | PostgreSQL | MongoDB | Redis |
 |------------|---------|-------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="40" height="40"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="50" height="50"/> |
 
 ### System & Infrastructure
-| Linux | Docker | Ansible | Terraform |
-|-------|--------|---------|-----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="40" height="40"/> |
+| Linux | Docker | Ansible | Terraform | AWS |
+|-------|--------|---------|-----------|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/> |
 
-| AWS |
-|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="80" height="80"/> |
 
 ### AI & Agents
-| LangChain | LangGraph | Transformers |
-|-----------|-----------|--------------|
-| <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/libs/langchain/langchain/img/langchain-logo-dark-mode.png" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/libs/langchain/langchain/img/langgraph-logo-dark-mode.png" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/huggingface/huggingface-original.svg" width="40" height="40"/> |
+| LangChain & LangGraph | Transformers |
+|----------------------|--------------|
+| <img src="./media/langchain-and-Langraph.png" width="50" height="50"/> | <img src="./media/transformers-hugging-face.png" width="50" height="50"/> |
 
 | OpenCV | Pandas | Numpy | n8n |
 |--------|--------|-------|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/n8n/n8n-original.svg" width="40" height="40"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50" height="50"/> | <img src="./media/n8n.png" width="50" height="50"/> |
 
 ---
 
