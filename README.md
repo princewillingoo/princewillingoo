@@ -59,7 +59,7 @@ Let's connect and collaborate on exciting projects that push the boundaries of w
 
 <table style="width:100%">
   <tr>
-    <td><a href="https://github.com/princewillingoo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princewillingoo&hide=jupyter%20notebook,html,css,scss,dockerfile,makefile,mako,shell,gherkin&theme=vision-friendly-dark" alt="Top Langs"></a></td>
+    <td><a href="https://github.com/princewillingoo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princewillingoo&hide=jupyter%20notebook,html,css,scss,dockerfile,makefile,mako,shell,gherkin&theme=dark" alt="Top Langs"></a></td>
     <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=princewillingoo&theme=dark&border_radius=6&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun&card_width=550&card_height=250" alt="GitHub Streak" /></a></td>
   </tr>
 </table>
