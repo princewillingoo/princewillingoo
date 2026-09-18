@@ -1,82 +1,41 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
-  
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princewillingoo)
-  [![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](#)
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/princewillingoo)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=princewilling&style=flat-square&color=blue)
-  
-  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/> Build, Experiment, Solve and Ship.
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/masthead-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/masthead-light.svg" alt="Princewill Rivers, backend and AI engineer" width="100%"></picture>
 
-I architect and build intelligent systems that power modern, data-driven applications. My skill set lies at the intersection of efficient software engineering and AI. I leverage Python, Node.js, and advanced AI frameworks to solve complex challenges in domains like HealthTech, EdTech, and Marketing Analytics.
+I'm a backend and AI engineer. These days I'm at **Vendease**, building a WhatsApp commerce agent, the Odoo ERP behind it, and the internal tools that keep work from getting lost. Before that I built most of **ProxyMedicine**'s telemedicine backend and its AI assistant, and for years I've built social data pipelines for **Decoditive**.
 
-My approach is full-lifecycle: I don't just write code; I design resilient, production-ready systems. This means architecting scalable microservices, implementing robust CI/CD pipelines with tools like Docker and AWS, and ensuring long-term maintainability.
+Nearly all of it lives in private repos, so this page is the ledger: every number below is counted from git, not estimated.
 
-I'm not just about writing code; I'm also about documenting it effectively. As a technical writer, I transform technical concepts into user-friendly documentation and guides, ensuring that developers and end-users alike can understand and utilize software to its fullest potential.
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/calendar-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/calendar-light.svg" alt="2,845 commits on 429 days across private repositories" width="100%"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/divider-work-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/divider-work-light.svg" alt="Selected work" width="100%"></picture>
 
-## 🛠️ Languages and Tools
+<p align="center">
+<a href="https://prxy.health"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/card-alfie-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/card-alfie-light.svg" alt="Alfie, the patient assistant. Grew a triage chatbot into a LangGraph multi-agent system: specialist subgraphs, RAG over pgvector and a red-flag screener that runs before any model call. Then moved it into its own service that reaches the clinical API only over MCP." width="49%"></picture></a>
+<a href="https://www.vendease.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/card-odoo-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/card-odoo-light.svg" alt="The Odoo 17 to 19 upgrade. Took over Vendease's Odoo as its only developer, new to the framework. Ported all ten custom addons to Odoo 19 in three days, cut production over on 8 August 2026, then hunted down the silent breakage the tests had missed." width="49%"></picture></a>
+</p>
+<p align="center">
+<a href="https://www.vendease.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/card-whatsapp-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/card-whatsapp-light.svg" alt="WhatsApp commerce agent. Customers browse, build a basket and pay by Paystack link without leaving the chat. One staged agent loop with tools scoped per stage, paid orders sealed against rebilling, and an operator desk for when a human should take over." width="49%"></picture></a>
+<a href="https://www.vendease.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/card-nexus-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/card-nexus-light.svg" alt="Nexus Protocol. A task-accountability service that catches work requests in Google Chat, Gmail and Docs so nothing asked of a team gets lost. Went from a Sheets prototype in May to a company-wide rollout in July." width="49%"></picture></a>
+</p>
+<p align="center">
+<a href="https://prxy.health"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/card-monorepo-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/card-monorepo-light.svg" alt="Eight repos into one. Owned the telemedicine backend: onboarding, triage, encounters, Stripe, DoseSpot e-prescribing and labs. Folded eight repos held together by sys.path into one monorepo with twelve packages and CI, then ported it to launch StatWell, a sister brand." width="49%"></picture></a>
+<a href="https://decoditive.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/card-decoditive-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/card-decoditive-light.svg" alt="Audience intelligence. Collectors for TikTok, Instagram, X and Facebook, then vision, ML and LLM enrichment on every commenter: age from profile photos, gender, sentiment, language, location and topics, shipped as analyst-ready datasets." width="49%"></picture></a>
+</p>
 
-### Programming Languages & Frameworks
-| Python | FastAPI | Django | Flask |
-|--------|---------|--------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50" height="50"/> |
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/divider-toolbox-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/divider-toolbox-light.svg" alt="Toolbox" width="100%"></picture>
 
-| JavaScript | TypeScript | NodeJS | ExpressJS | NestJS |
-|------------|------------|---------|------------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="50" height="50"/> |
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/toolbox-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/toolbox-light.svg" alt="Toolbox: Languages: Python, TypeScript, SQL, JavaScript, Bash; Backend: FastAPI, Flask, Django, Odoo, Pydantic, SQLAlchemy, Dramatiq, RabbitMQ; Ai &amp; Agents: LangGraph, LangChain, MCP, Pydantic AI, LangSmith, pgvector; Ml &amp; Vision: PyTorch, Hugging Face, OpenCV, CLIP; Data: PostgreSQL, MongoDB, Redis, SQLite, pandas; Shipping: Docker, GitHub Actions, pytest, Playwright, uv, nginx, AWS, Dokploy; Integrations: Stripe, Paystack, DoseSpot, Twilio, WhatsApp Cloud API, Google Workspace APIs" width="100%"></picture>
 
-### Databases
-| PostgreSQL | MongoDB | Redis |
-|------------|---------|-------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="50" height="50"/> |
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/divider-writing-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/divider-writing-light.svg" alt="Writing" width="100%"></picture>
 
-### System & Infrastructure
-| Linux | Docker | Ansible | Terraform | AWS |
-|-------|--------|---------|-----------|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/> |
+<a href="https://semaphoreci.com/blog/custom-middleware-fastapi"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/writing-0-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/writing-0-light.svg" alt="Building Custom Middleware in FastAPI (Semaphore)" width="100%"></picture></a>
+<a href="https://semaphoreci.com/blog/docker-volumes"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/writing-1-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/writing-1-light.svg" alt="Docker Volumes: Efficient Data Management in Containerized Environments (Semaphore)" width="100%"></picture></a>
+<a href="https://earthly.dev/blog/linux-network-commands/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/writing-2-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/writing-2-light.svg" alt="Mastering Linux Networking Commands: A Comprehensive Guide (Earthly)" width="100%"></picture></a>
+<a href="https://www.makeuseof.com/create-distribute-use-packages-in-python/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/writing-3-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/writing-3-light.svg" alt="A Beginner's Guide to Creating and Using Packages in Python (Makeuseof)" width="100%"></picture></a>
 
+<p align="right"><a href="https://willingly.hashnode.dev/">More on Hashnode ↗</a></p>
 
-### AI & Agents
-| LangChain & LangGraph | Transformers |
-|:----------------------:|:--------------:|
-| <img src="./media/langchain-and-Langraph.png" width="50" height="50"/> | <img src="./media/transformers-hugging-face.png" width="50" height="50"/> |
-
-| OpenCV | Pandas | Numpy | n8n |
-|--------|--------|-------|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50" height="50"/> | <img src="./media/n8n.png" width="50" height="50"/> |
-
----
-
-## 🔥 Stats & Streaks 🔥
-
-<table style="width:100%">
-  <tr>
-    <td><a href="https://github.com/princewillingoo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princewillingoo&hide=jupyter%20notebook,html,css,scss,dockerfile,makefile,mako,shell,gherkin&theme=dark" alt="Top Langs"></a></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=princewillingoo" alt="GitHub Streak" /></a></td>
-  </tr>
-</table>
-
----
-
-## 🏆 Rivers Trophies Cabinet
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=princewillingoo&theme=onedark)
-
-</div>
-
----
-
-## ✍️ Blog Posts
-
-1. [**Building Custom Middleware in FastAPI: Extending and Enhancing API Functionality**](https://semaphoreci.com/blog/custom-middleware-fastapi)
-2. [**Docker Volumes: Efficient Data Management in Containerized Environments**](https://semaphoreci.com/blog/docker-volumes)
-3. [**Mastering Linux Networking Commands: A Comprehensive Guide**](https://earthly.dev/blog/linux-network-commands/)
-4. [**A Beginner's Guide to Creating and Using Packages in Python**](https://www.makeuseof.com/create-distribute-use-packages-in-python/)
-5. [**Integrating Paystack Payment Gateway Into Your Django Project I**](https://willingly.hashnode.dev/integrating-paystack-payment-gateway-with-django)
-6. [**Integrating Paystack Payment Gateway Into Your Django Project II**](https://willingly.hashnode.dev/integrating-paystack-payment-gateway-with-django-ii)
+<p align="center">
+<a href="https://www.linkedin.com/in/princewillingoo">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://x.com/princewillingoo">X</a> &nbsp;·&nbsp;
+<a href="https://willingly.hashnode.dev/">Hashnode</a>
+</p>
