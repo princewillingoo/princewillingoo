@@ -4,8 +4,6 @@ I'm a backend and AI engineer who builds the systems businesses run on. Most rec
 
 I'm open to new backend and AI engineering roles. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/princewillingoo).
 
-Every number on this page is counted from git, not estimated.
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/calendar-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/calendar-light.svg" alt="2,847 commits on 429 days across private repositories" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/divider-work-dark.svg"><img src="https://raw.githubusercontent.com/princewillingoo/princewillingoo/main/assets/divider-work-light.svg" alt="Selected work" width="100%"></picture>
